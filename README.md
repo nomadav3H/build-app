@@ -7,7 +7,7 @@ Instructions to install app locally on OSX
 
 1. clone the repo
 
-git clone  https://<username>@github.com/nomadav3H/build-app.git/
+git clone  https://github.com/nomadav3H/build-app/
 
 2. navigate to directory 
 
