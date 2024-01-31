@@ -11,7 +11,7 @@ git clone  https://<username>@github.com/nomadav3H/build-app.git/
 
 2. navigate to directory 
 
-cd patopay-app
+cd build-app
 
 3. install packages 
 
